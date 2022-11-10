@@ -3,4 +3,4 @@
 App created with React and Vite
 
 
-<a src="https://markdownfcc.netlify.app/" target="_blank">PREVIEW</a>
+[PREVIEW](https://markdownfcc.netlify.app/)
